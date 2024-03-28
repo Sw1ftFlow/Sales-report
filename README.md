@@ -1,6 +1,9 @@
 # Sales-report
 PowerBI report that is performance optimized and made for ipad users. 
 
+# Data and pbix file
+Because the report contains sensitive data it cannot be publicly displayed or shared. I can instead demo it upon request. 
+
 # Requirements
 The report needs to be fast and no visual should have a load time longer than 1000 ms. The report is used by many sales people at once, each from different regions where internet connection sometimes may be weak. 
 
